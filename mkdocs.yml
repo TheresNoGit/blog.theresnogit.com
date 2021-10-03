@@ -1,0 +1,6 @@
+site_name: TheresNoGit Blog
+site_url: https://blog.theresnogit.com
+nav:
+    - Home: index.md
+    - Status: status.md
+theme: readthedocs
